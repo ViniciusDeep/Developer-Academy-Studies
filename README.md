@@ -37,3 +37,6 @@ Resposta: Sim, haverá um certificado do programa.
 * Trazer todo o conteúdo da prova escrita até você para que facilite e ajude em seus estudos
 * Que você possa tirar suas dúvidas comigo através das ISSUES sobre esse assunto
 
+
+### Para mais informações consulte:  http://developeracademy.ifce.edu.br/
+
