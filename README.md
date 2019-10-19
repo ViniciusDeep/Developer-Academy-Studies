@@ -10,6 +10,7 @@ Consiste em duas etapas:
 
 * 1. Uma prova escrita com conteúdos que podem ser vistos nesse repositório.
 * 2. Entrevista de análise pessoal.
+* 3. Atividade prática de caráter eliminatório.
 
 ### Há idade mínima para participar?
 Não. O programa destina-se a estudantes de graduação e estudantes de cursos técnicos do IFCE, independentemente da idade.
