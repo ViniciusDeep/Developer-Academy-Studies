@@ -9,4 +9,4 @@
 * Prova 2017 (Turma 2018/2019) 
 * Prova 2019 (Turma 2020/2021) 
 
-> **Nota importante**: Essas provas e entre outros tópicos geraram o nosso conteúdo de estudo para esse repositório.
+> **Nota importante**: Essas provas, dentre outros tópicos, geraram o nosso conteúdo de estudo para esse repositório.
