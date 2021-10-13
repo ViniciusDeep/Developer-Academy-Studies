@@ -1,7 +1,7 @@
-# Apple-Developer-Academy-Studies-CE
+# Developer-Academy-Studies-CE
 
 ## O que é
-Em resumo, a Apple Developer Academy é um programa de estágio remunerado para formação de desenvolvedores iOS com carga horaria de 20 horas semanais. Podem participar do programa alunos regularmente matriculados em cursos técnicos(IFCE) ou de graduação(Sendo a maior parte das vagas destinadas há alunos do IFCE, podendo participar qualquer aluno de graduações tecnologicas).
+Em resumo, a Developer Academy é um programa de estágio remunerado para formação de desenvolvedores iOS com carga horaria de 20 horas semanais. Podem participar do programa alunos regularmente matriculados em cursos técnicos(IFCE) ou de graduação(Sendo a maior parte das vagas destinadas há alunos do IFCE, podendo participar qualquer aluno de graduações tecnologicas).
 
 ### Seleção
 
